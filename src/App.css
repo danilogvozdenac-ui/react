@@ -9,7 +9,7 @@ border-radius: 12px;
 padding: 1rem; 
 }
 
-.card-conainer {
+.card-container {
   display: flex;
   gap: 20px;
 }
