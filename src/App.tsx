@@ -7,9 +7,9 @@ function App() {
     <>
       <h1>Wilkommen</h1>
       <div className={styles.cardcontainer}>
-        <Card />
-        <Card />
-        <Card />
+        <Card title="peter" text="Das ist Peter" image="https://picsum.photos/200/300" />
+        <Card title="susi" text="Das ist Susi" image="https://picsum.photos/200/300"/>
+        <Card  title="paul" text="Das ist Paul" image="https://picsum.photos/200/300"/>
       </div>
     </>
   )
